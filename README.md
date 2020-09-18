@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+I am doing these things:
 
 - 🔭 I’m currently working on LinUI
 - 🌱 I’m currently learning Golang
