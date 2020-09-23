@@ -7,4 +7,4 @@
   
   
 👨‍💻 A Web Frontend developer  
-🚧 **Current Team:** [TaleLin](https://github.com/TaleLin)
+🏭 **Current Team:** [TaleLin](https://github.com/TaleLin)
