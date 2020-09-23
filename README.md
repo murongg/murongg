@@ -1,11 +1,10 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MuRongXiaoDouBi&show_icons=true">
 
+### Hi! I'm Juzi :orange:
 
-I am doing these things:
-
-- 🔭 I’m currently working on LinUI
-- 🌱 I’m currently learning Golang
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MuRongXiaoDouBi)](https://github.com/anuraghazra/github-readme-stats)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuRongXiaoDouBi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![博客](https://img.shields.io/static/v1?label=%E5%8D%9A%E5%AE%A2&message=juzibiji.top&color=orange&logo=bloglovin&style=flat-square&logoColor=white)](https://www.imuboy.cn/)
+[![邮箱](https://img.shields.io/static/v1?label=邮箱&message=%20&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:admin@imuboy.cn)
+  
+  
+👨‍💻 A Web Frontend developer  
+🚧 **Current Team:** [TaleLin](https://github.com/TaleLin)
