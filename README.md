@@ -7,4 +7,5 @@
   
   
 👨‍💻 A Web Frontend developer  
+🤩 Learn Golang  
 🏭 **Current Team:** [TaleLin](https://github.com/TaleLin)
