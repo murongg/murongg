@@ -8,3 +8,7 @@
   
 👨‍💻 A Web Frontend developer  
 🤩 Learn Golang  
+
+## &#x1f92b; Github Visitors
+
+[![Top Langs](https://profile-counter.glitch.me/murongg/count.svg)](https://github.com/murongg)
