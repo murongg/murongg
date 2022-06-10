@@ -7,7 +7,7 @@
   
   
 👨‍💻 A Web Frontend developer  
-🤩 Learn Golang  
+<!-- 🤩 Learn Golang   -->
 
 ## &#x1f92b; Github Visitors
 
