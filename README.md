@@ -11,6 +11,6 @@
 
 ## &#x1f92b; Github Visitors
 
-[![Top Langs](https://profile-counter.glitch.me/murongg/count.svg)](https://github.com/murongg)
+<!-- [![Top Langs](https://profile-counter.glitch.me/murongg/count.svg)](https://github.com/murongg) -->
 
 <a href="https://www.buymeacoffee.com/murong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
