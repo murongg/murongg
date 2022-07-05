@@ -2,8 +2,8 @@
 
 ### Hi! I'm MuRong:
 
-[![Blog](https://img.shields.io/static/v1?label=Blog&message=imuboy.cn&color=orange&logo=bloglovin&style=flat-square&logoColor=white)](https://www.imuboy.cn/)
-[![Email](https://img.shields.io/static/v1?label=Email&message=admin@imuboy.cn%20&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:admin@imuboy.cn)
+[![Blog](https://img.shields.io/static/v1?label=Blog&message=mrong.me&color=orange&logo=bloglovin&style=flat-square&logoColor=white)](https://mrong.me/)
+[![Email](https://img.shields.io/static/v1?label=Email&message=hi@mrong.me%20&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:hi@mrong.me)
   
   
 <!-- 👨‍💻 A Web Frontend developer   -->
