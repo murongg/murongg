@@ -8,6 +8,7 @@
 ## My GitHub Projects
 
 - [vue3-lazyload](https://github.com/murongg/vue3-lazyload) - A Vue3.x image lazyload plugin
+- [NeoRDM](https://github.com/murongg/neordm) - AI-first Redis desktop client. Built for understanding data, exploring keys, and executing Redis workflows with confidence.
 - [openframe](https://github.com/murongg/openframe) - 开源免费的 AI 漫剧创作工作台：从剧本到角色/场景、分镜、视频生成与导出（FCPXML/EDL），支持 Web 与桌面端。
 - [ui-element-ops](https://github.com/murongg/ui-element-ops) - A skill for parsing UI screenshots into structured elements and automating desktop actions with find/wait/click/type and coordinate calibration. 
 - [ai-zhuqi-battle](https://github.com/murongg/ai-zhuqi-battle) - 一个LLM与LLM之间的五子棋/象棋对战小游戏
